@@ -1,0 +1,2 @@
+# javascriptfile
+a code javascript
